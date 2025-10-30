@@ -35,5 +35,5 @@ data/
 .env
 .env.*
 
-# KaggleHub cache (if used)
+# KaggleHub cache
 .kagglehub/
