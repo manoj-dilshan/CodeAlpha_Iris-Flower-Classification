@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification — CodeAlpha Internship
+# 🌸 Iris Flower Classification
 
 This project implements a machine learning model to classify **Iris flower species** (*Iris-setosa*, *Iris-versicolor*, *Iris-virginica*) based on sepal and petal measurements. It demonstrates **data preprocessing**, **exploratory data analysis (EDA)**, **model training**, and **evaluation** using Python and scikit-learn.
 
